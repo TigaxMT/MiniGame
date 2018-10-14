@@ -7,9 +7,9 @@ This project will no longer be continued. Any errors or functionality that you w
 
 # Credits
 
-Development and Design: Tiago Martins
+* Development and Design: Tiago Martins
 
-Music and sound: My girlfriend
+* Sounds: Bruna Silva([SoundCloud](https://soundcloud.com/bruzzounds)|[YouTube](https://www.youtube.com/channel/UCrLNM0hqYuBzvpirB80SnRQ)|[Twitter](https://twitter.com/BruZZounds))
 
 # Contact me
 
